@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="movies1">منزل لاود.</string>
+    <string name="movies2">عائلة كروود.</string>
+    <string name="movies3">بطاريق مدغشقر.</string>
+    <string name="movies4">الرجل الرمادي.</string>
+    <string name="movies5">رجل من تورنتو.</string>
+    <string name="movies6">سان أندرياس.</string>
+</resources>
