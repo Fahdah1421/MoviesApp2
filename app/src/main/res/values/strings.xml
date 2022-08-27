@@ -4,6 +4,21 @@
     <string name="movies2">عائلة كروود.</string>
     <string name="movies3">بطاريق مدغشقر.</string>
     <string name="movies4">الرجل الرمادي.</string>
-    <string name="movies5">رجل من تورنتو.</string>
-    <string name="movies6">سان أندرياس.</string>
+    <string name="movies5">سان أندرياس .</string>
+    <string name="movies6">جل من تورنتو.</string>
+    <string name="about1">تدور احداث  المسلسل عن لينكولن لاود وهو فتى في الحادية عشر من عمره يعيش في منزل برفقة 10 شقيقات وبمساعدة من صديقه المقرب كلايد يحاول لينكولن إثبات وجودة بإعتباره الإبن الوحيد للأسرة</string>
+    <string name="about2">تعيش عائلة (كرودز) في عالم ما قبل التاريخ؛ فتحاول البحث عن مكان جديد لتقيم فيه بعد أن دُمر كهفهم</string>
+    <string name="about3">وتدور أحداث قصة الفيلم حول مجموعة من البطاريق الذكيه ُيشكلون فرقة تجسس سرية خارقة </string>
+    <string name="about4">تدور الأحداث في أوروبا، حيث يتطلع عميل في وكالة المخابرات المركزية متهم بالقتل للتهرب من قوى غامضة بينما يحاول إنقاذ حياة بناته اللاتي لا يعرفن أنه موجود.</string>
+    <string name="about5">تدور أحداث الفيلم بعد الفوضى التي تحدث عقب زلزال مدمر في ولاية (كاليفورنيا)، حيث يقرر سائق طائرة هليكوبتر مخصصة للإنقاذ أن يذهب هو وزوجته السابقة في رحلة خطرة عبر الولاية، لإنقاذ ابنتهما</string>
+    <string name="about6">يروي الفيلم قصة سوء تفاهم وخلط بين واحد من أكبر القتلة في العالم وواحد من أكثر الناس خيبةً وفشلاً عن طريق شركة حجز أماكن للعطلات.</string>
+
+    <string name="movies">Movies</string>
+    <string name="a">منزل لاود</string>
+    <string name="google">Google</string>
+    <string name="action_switch_layout">menu</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

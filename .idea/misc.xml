@@ -3,8 +3,30 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.1265" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/drawable/ic_grid_layout.xml" value="0.1775" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/drawable/ic_linear_layout.xml" value="0.1775" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/activity_main.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_movie_details.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_movies__list_.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_movies_detail.xml" value="0.221875" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_movies_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_second.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_second1.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_second_page.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_start.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_start2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/fragment_tickt.xml" value="0.23802083333333332" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/itm_movies.xml" value="0.177734375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/layout_tickt.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/layout/layuot_page1.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/menu/layout_menu.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/menu/layoutmenu.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MoviesApp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
   </component>
@@ -13,5 +35,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.23177083333333334" />
+      </ProjectState>
+    </option>
   </component>
 </project>

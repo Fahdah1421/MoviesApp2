@@ -1,42 +1,43 @@
 package com.example.moviesapp.adapter
 
-import android.content.Context
+import android.graphics.Movie
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
 import com.example.moviesapp.R
+import com.example.moviesapp.data.loadMovies
 import com.example.moviesapp.model.Movies
 
 
-
-    class MoviesAdapter(val dataset:List<Movies>,val context: Context):RecyclerView.Adapter<MoviesAdapter.MoviesViewHolder>() {
-
-
+class MoviesAdapter() :RecyclerView.Adapter<MoviesAdapter.MovieViewHolder>() {
+    private val MovieSet :  List <Movies> = loadMovies ()
 
 
-        class MoviesViewHolder(private val view:View) : RecyclerView.ViewHolder(view){
-        val textView : TextView = view.findViewById(R.id.item_title)
-        val imageView : ImageView =view.findViewById(R.id.item_image)
+
+class MovieViewHolder(private val view: View):RecyclerView.ViewHolder(view){
+    val imageView : ImageView = view.findViewById(R.id.item_image)
+
+}
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MovieViewHolder {
+       val layout = LayoutInflater.from(parent.context).inflate(R.layout.itm_movies,parent,false)
+        return MovieViewHolder(layout)
     }
 
-        override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MoviesViewHolder {
-            val adapterLayout=LayoutInflater.from(parent.context).inflate(R.layout.itm_movies,parent,false)
-            return MoviesViewHolder(adapterLayout)
-
-        }
-
-        override fun onBindViewHolder(holder: MoviesViewHolder, position: Int) {
-         val item=dataset[position]
-            holder.textView.text=context.getString(item.moviesString)
-            holder.imageView.setImageResource(item.moviesImageId)
-        }
-
-        override fun getItemCount()=dataset.size
-
+    override fun onBindViewHolder(holder: MovieViewHolder, position: Int) {
+    val item = MovieSet[position]
+        holder.imageView.setImageResource(item.moviesImageId)
     }
+
+    override fun getItemCount() = MovieSet.size
+
+
+}
 
 
 
